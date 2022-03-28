@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-03-28 14:06+0800\n"
+"PO-Revision-Date: 2022-03-28 14:07+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: icpbeian.php:32
+msgid "China WebSite Beian"
+msgstr "中国网站ICP备案"
+
+#: icpbeian.php:33
+msgid "ICPBEIAN"
+msgstr "中国网站ICP备案"
+
+#: icpbeian.php:55
+msgid "ICP Number"
+msgstr "ICP 备案号"
+
+#: icpbeian.php:70
+msgid "ShortCode"
+msgstr "短码"
