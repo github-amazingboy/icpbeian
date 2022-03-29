@@ -2,7 +2,7 @@
 
 Contributors: amazing zhang
 
-Tags: ICP
+Tags: ICP,备案
 
 Tested up to: 5.9
 
